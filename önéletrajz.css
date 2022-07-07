@@ -1,0 +1,44 @@
+
+
+body{
+    background-color:cornsilk;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+ .table1{
+    margin-left:30%;
+   
+    font-size: 15pt;
+    margin-top:2%;
+    text-align: justify;
+}
+.table1 td, .table2 td{
+    padding-left: 2%;
+}
+.en{
+    width: 25%;
+}
+
+.table2, .poky{
+   margin-left:30%;
+  
+   font-size: 15pt;
+   margin-top:2%;
+   text-align: justify;
+}
+ .tanulmányok, .munka{
+    margin-top: 3%;
+}
+
+.poky1{
+    width: 20%;
+}
+.poky td{
+    padding-left: 2%;
+}
